@@ -55,4 +55,4 @@ F3D, which Crate depends on, is licensed under the BSD 3-Clause License.
 #
 Let’s keep Crate snappy, efficient, and true to its minimalist design! Thank you for your support and happy browsing!
 #
-Always check the releases page for the latest version of Crate.: https://github.com/NicLandajo/Crate/releases
+Always check the releases page for the latest version of Crate.: [https://github.com/CrateTools/Crate/releases](https://github.com/CrateTools/Crate/releases)
