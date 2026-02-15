@@ -2,7 +2,7 @@
 
 #
 
-Crate is a 3D browser for Nuke that generates thumbnails from geometry and gaussian splats automatically for you.
+Crate is the first 3D browser for Nuke that generates thumbnails from geometry and gaussian splats automatically for you.
 
 #
 
