@@ -1,4 +1,8 @@
-<img width="1250" height="330" alt="crate banner" src="https://github.com/user-attachments/assets/edbe9926-efe3-4756-8a72-42b314cc136d" />
+<img width="1916" height="620" alt="long banner_03" src="https://github.com/user-attachments/assets/380fd128-e55a-4576-b782-5255f0a4a82b" />
+
+#
+
+# 🔥 #CRATE V1.5 FOR NUKE17 COMING SOON! +New Really Cool Features! 🔥
 
 #
 
