@@ -1,4 +1,5 @@
-<img width="1917" height="621" alt="long banner_03" src="https://github.com/user-attachments/assets/0eb65270-76dd-4bc6-87da-3658ec52d2f5" />
+<img width="1917" height="621" alt="long banner_04" src="https://github.com/user-attachments/assets/dd3d392a-50fe-4c9a-813b-be1492170b49" />
+
 
 #
 
