@@ -2,7 +2,7 @@
 
 #
 
-# 🔥 CRATE V1.5 FOR NUKE17 COMING SOON! +New Really Cool Features!
+# 🔥 CRATE V1.5 FOR NUKE17 COMING SOON!
 # 🔥 +New Really Cool Features!
 
 #
