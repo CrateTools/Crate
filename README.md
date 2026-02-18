@@ -3,8 +3,7 @@
 
 #
 
-# 🔥 CRATE V1.5 FOR NUKE17 COMING SOON!
-# +New Really Cool Features!
+# 🔥 CRATE V1.5 FOR NUKE 17 COMING SOON
 
 Crate is the first 3D browser for Nuke that generates thumbnails from geometry and gaussian splats automatically for you.
 
@@ -56,7 +55,17 @@ Adhere to the terms of the Crate License, which prohibits commercial sales but a
 Crate is licensed under the Crate License, a permissive license with restrictions on commercial sales. See Crate LICENSE.md for details.
 
 F3D, which Crate depends on, is licensed under the BSD 3-Clause License.
+ImageMagik, which Crate depends on, is licensed under the ImageMagick License (the "License").
 #
 Let’s keep Crate snappy, efficient, and true to its minimalist design! Thank you for your support and happy browsing!
 #
 Always check the releases page for the latest version of Crate.: [https://github.com/CrateTools/Crate/releases](https://github.com/CrateTools/Crate/releases)
+
+#
+
+Crate objects engines
+
+ImageMagik: https://github.com/ImageMagick
+F3D: https://github.com/f3d-app
+
+Thanks F3D and ImageMagic for your fantastic work, your tools are amazing!
