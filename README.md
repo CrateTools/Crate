@@ -56,6 +56,7 @@ Crate is licensed under the Crate License, a permissive license with restriction
 
 F3D, which Crate depends on, is licensed under the BSD 3-Clause License.
 ImageMagik, which Crate depends on, is licensed under the ImageMagick License (the "License").
+FFmpeg, which Crate depends on, is under the GNU Lesser General Public License version 2.1 or later (LGPL v2.1+), most files in FFmpeg, not all, support this license.
 #
 Let’s keep Crate snappy, efficient, and true to its minimalist design! Thank you for your support and happy browsing!
 #
