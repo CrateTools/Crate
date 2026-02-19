@@ -18,7 +18,7 @@ notice acknowledging the original source, including the following statement in t
 user interface, or accompanying materials:
 
 "This software is based on Crate, originally developed by Nicolas Landajo.
-Source available at https://github.com/NicLandajo/Crate."
+Source available at https://github.com/CrateTools/Crate
 
 The above copyright notice and this permission notice shall be included in all copies or substantial
 portions of the Software.
@@ -28,3 +28,12 @@ TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONIN
 THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
 CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
+
+
+Other Licenses which Crate depends on
+
+F3D, which Crate depends on, is licensed under the BSD 3-Clause License.
+
+ImageMagik, which Crate depends on, is licensed under the ImageMagick License (the "License").
+
+FFmpeg, which Crate depends on, is under the GNU Lesser General Public License version 2.1 or later (LGPL v2.1+), most files in FFmpeg, not all, support this license.
