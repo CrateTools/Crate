@@ -60,6 +60,8 @@ ImageMagik, which Crate depends on, is licensed under the ImageMagick License (t
 
 FFmpeg, which Crate depends on, is under the GNU Lesser General Public License version 2.1 or later (LGPL v2.1+), most files in FFmpeg, not all, support this license.
 
+MediaInfo, which Crate depends on, is under the BSD 2-Clause License.
+
 #
 Let’s keep Crate snappy, efficient, and true to its minimalist design! Thank you for your support and happy browsing!
 #
