@@ -64,6 +64,8 @@ FFmpeg, which Crate depends on, is under the GNU Lesser General Public License v
 
 MediaInfo, which Crate depends on, is under the BSD 2-Clause License.
 
+OpenImageIO, which Crate depends on, is under Apache License.
+
 #
 Let’s keep Crate snappy, efficient, and true to its minimalist design! Thank you for your support and happy browsing!
 #
