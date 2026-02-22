@@ -23,6 +23,8 @@ Crate is a set of Python scripts designed to work with F3D, a fast and minimalis
 Check playlist of videos here! https://www.youtube.com/playlist?list=PLPqEIUVfnnz6pt2Bg8_i-BTS6PeyLD2nX
 #
 
+# CRATE V1.1 Images
+
 <img width="1874" height="1001" alt="crate5" src="https://github.com/user-attachments/assets/bbe98979-0c49-4d37-b4dc-85b3b069c513" />
 <img width="1872" height="998" alt="crate6" src="https://github.com/user-attachments/assets/7f37d0ee-6f99-4007-813e-4c708fc698a4" />
 <img width="1872" height="992" alt="crate1" src="https://github.com/user-attachments/assets/da0c2b57-c42b-4b09-9b21-9cea0b3c299b" />
