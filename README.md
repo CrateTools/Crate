@@ -56,10 +56,15 @@ Acknowledge the original creator and link to the source repository https://githu
 Crate engines links
 
 https://github.com/ImageMagick
+
 https://github.com/f3d-app
+
 https://github.com/AcademySoftwareFoundation
+
 https://github.com/pitvfx/dynamic-table
+
 https://github.com/MediaArea/MediaInfo
+
 https://github.com/FFmpeg
 
 Special thanks to all our engines for your fantastic work and contribution, Crate would be impossible without you!
