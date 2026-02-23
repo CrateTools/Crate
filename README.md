@@ -33,17 +33,7 @@ Check playlist of videos here! https://www.youtube.com/playlist?list=PLPqEIUVfnn
 
 #
 Installation: please read Crate v1.0 installation intructions.txt
-#
-☕︎ Support: A small 1 Dollar donation helps! ☕︎ https://buymeacoffee.com/cratetools
 
-⭐ Can’t or don’t feel like donating? No worries at all! Just giving the repo a star helps others discover it, and that support means the world
-
-🌍 Share this tool with anyone you think would enjoy it! 🌍
-
-🪲 Report any bugs you come across
-
-📄 Contribute improvements
-#
 We’re seeking contributors to expand Crate, to other VFX software such as Maya, Houdini, Blender, Modo, 3DEqualizer, and any Python-based platform.
 
 You’re welcome to adapt Crate for these tools, provided you:
@@ -67,9 +57,15 @@ MediaInfo, which Crate depends on, is under the BSD 2-Clause License.(soon on Cr
 OpenImageIO, which Crate depends on, is under Apache License.(soon on Crate v2.0)
 
 #
-Let’s keep Crate snappy, efficient, and true to its minimalist design! Thank you for your support and happy browsing!
-#
-Always check the releases page for the latest version of Crate.: [https://github.com/CrateTools/Crate/releases](https://github.com/CrateTools/Crate/releases)
+☕︎ Support: A small 1 Dollar donation helps! ☕︎ https://buymeacoffee.com/cratetools
+
+⭐ Can’t or don’t feel like donating? No worries at all! Just giving the repo a star helps others discover it, and that support means the world
+
+🌍 Share this tool with anyone you think would enjoy it! 🌍
+
+🪲 Report any bugs you come across
+
+📄 Contribute improvements
 
 #
 
