@@ -39,6 +39,31 @@ We’re seeking contributors to expand Crate, to other VFX software such as Maya
 You’re welcome to adapt Crate for these tools, provided you:
 
 Acknowledge the original creator and link to the source repository https://github.com/CrateTools/Crate in your documentation or materials.
+
+#
+☕︎ Support: A small 1 Dollar donation helps! ☕︎ https://buymeacoffee.com/cratetools
+
+⭐ Can’t or don’t feel like donating? No worries at all! Just giving the repo a star helps others discover it, and that support means the world
+
+🌍 Share this tool with anyone you think would enjoy it! 🌍
+
+🪲 Report any bugs you come across
+
+📄 Contribute improvements
+
+#
+
+Crate engines links
+
+https://github.com/ImageMagick
+https://github.com/f3d-app
+https://github.com/AcademySoftwareFoundation
+https://github.com/pitvfx/dynamic-table
+https://github.com/MediaArea/MediaInfo
+https://github.com/FFmpeg
+
+Special thanks to all our engines for your fantastic work and contribution, Crate would be impossible without you!
+
 #
 License: please read Crate Licence.md
 
@@ -57,21 +82,3 @@ MediaInfo, which Crate depends on, is under the BSD 2-Clause License.(soon on Cr
 OpenImageIO, which Crate depends on, is under Apache License.(soon on Crate v2.0)
 
 #
-☕︎ Support: A small 1 Dollar donation helps! ☕︎ https://buymeacoffee.com/cratetools
-
-⭐ Can’t or don’t feel like donating? No worries at all! Just giving the repo a star helps others discover it, and that support means the world
-
-🌍 Share this tool with anyone you think would enjoy it! 🌍
-
-🪲 Report any bugs you come across
-
-📄 Contribute improvements
-
-#
-
-Crate objects engines
-
-ImageMagik: https://github.com/ImageMagick
-F3D: https://github.com/f3d-app
-
-Thanks F3D and ImageMagic for your fantastic work, your tools are amazing!
