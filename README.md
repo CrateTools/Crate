@@ -24,15 +24,18 @@ Our engines will continue to allow Crate to grow into new and more professional 
 
 #
 
-Check playlist of videos here! https://www.youtube.com/playlist?list=PLPqEIUVfnnz6pt2Bg8_i-BTS6PeyLD2nX
+Official Crate youtube playlist: https://www.youtube.com/playlist?list=PLPqEIUVfnnz6pt2Bg8_i-BTS6PeyLD2nX
 #
 
 # CRATE V2.0 Screenshots Soon
 
 #
+
+Crate v1.1
+
 Installation: please read Crate v1.0 installation intructions.txt
 
-We’re seeking contributors to expand Crate, to other VFX software such as Maya, Houdini, Blender, Modo, 3DEqualizer, and any Python-based platform.
+#
 
 You’re welcome to adapt Crate for these tools, provided you:
 
@@ -47,7 +50,7 @@ Acknowledge the original creator and link to the source repository https://githu
 
 🪲 Report any bugs you come across
 
-📄 Contribute improvements
+📄 Contribute improvements and tickets/issues
 
 #
 
