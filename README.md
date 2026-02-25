@@ -61,7 +61,7 @@ https://github.com/f3d-app  (Crate v1.1 and v2.0)
 
 https://github.com/AcademySoftwareFoundation  (Crate v2.0)
 
-https://github.com/pitvfx/dynamic-table  (Crate v2.0)
+https://github.com/pitvfx/OpenImageIO  (Crate v2.0)
 
 https://github.com/MediaArea/MediaInfo  (Crate v2.0)
 
