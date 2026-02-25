@@ -3,7 +3,7 @@
 
 #
 
-# 🔥 CRATE V2.0 FOR NUKE 17 COMING SOON
+# 🎬📽️𒄆🎞️ CRATE V2.0 FOR ☢️NUKE17 COMING SOON
 
 Crate is the first 3D browser for Nuke that generates thumbnails from geometry and gaussian splats automatically for you.
 
@@ -18,18 +18,16 @@ Forget about creating cache images in your OS explorer, Crate does everything fo
 
 Crate is a set of Python scripts designed to work with F3D, a fast and minimalist 3D viewer, to provide asset browsing capabilities for splats and geometry in Nuke.
 
+It also uses OpenImageIO, FFmpeg, ImageMagik and MediaInfo as data and image engines for fast ingest, still and animated thumbs, profesional color management, image sequences, data integrity, metadata and more.
+
+Our engines will continue to allow Crate to grow into new and more professional indutry standard features, many of them already on V2.0
+
 #
 
 Check playlist of videos here! https://www.youtube.com/playlist?list=PLPqEIUVfnnz6pt2Bg8_i-BTS6PeyLD2nX
 #
 
-# CRATE V1.1 Images
-
-<img width="1874" height="1001" alt="crate5" src="https://github.com/user-attachments/assets/bbe98979-0c49-4d37-b4dc-85b3b069c513" />
-<img width="1872" height="998" alt="crate6" src="https://github.com/user-attachments/assets/7f37d0ee-6f99-4007-813e-4c708fc698a4" />
-<img width="1872" height="992" alt="crate1" src="https://github.com/user-attachments/assets/da0c2b57-c42b-4b09-9b21-9cea0b3c299b" />
-<img width="1874" height="999" alt="crate3" src="https://github.com/user-attachments/assets/bbbe68fe-96b5-47fa-8f20-4a7867bba6fb" />
-<img width="1871" height="998" alt="crate4" src="https://github.com/user-attachments/assets/089dc71d-cc8b-421a-a352-29494d075832" />
+# CRATE V2.0 Screenshots Soon
 
 #
 Installation: please read Crate v1.0 installation intructions.txt
