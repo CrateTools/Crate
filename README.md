@@ -76,14 +76,14 @@ Adhere to the terms of the Crate License, which prohibits commercial sales but a
 
 Crate is licensed under the Crate License, a permissive license with restrictions on commercial sales. See Crate LICENSE.md for details.
 
-F3D, which Crate depends on, is licensed under the BSD 3-Clause License. (Crate v1.1)
+F3D, which Crate depends on, is licensed under the BSD 3-Clause License.
 
-ImageMagik, which Crate depends on, is licensed under the ImageMagick License (the "License"). (soon on Crate v2.0)
+ImageMagik, which Crate depends on, is licensed under the ImageMagick License (the "License").
 
-FFmpeg, which Crate depends on, is under the GNU Lesser General Public License version 2.1 or later (LGPL v2.1+), most files in FFmpeg, not all, support this license.(soon on Crate v2.0)
+FFmpeg, which Crate depends on, is under the GNU Lesser General Public License version 2.1 or later (LGPL v2.1+), most files in FFmpeg, not all, support this license.
 
-MediaInfo, which Crate depends on, is under the BSD 2-Clause License.(soon on Crate v2.0)
+MediaInfo, which Crate depends on, is under the BSD 2-Clause License
 
-OpenImageIO, which Crate depends on, is under Apache License.(soon on Crate v2.0)
+OpenImageIO, which Crate depends on, is under Apache License.
 
 #
