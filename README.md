@@ -18,7 +18,7 @@ Forget about creating cache images in your OS explorer, Crate does everything fo
 
 Crate is a set of Python scripts designed to work with F3D, a fast and minimalist 3D viewer, to provide asset browsing capabilities for splats and geometry in Nuke.
 
-It also uses OpenImageIO, FFmpeg, ImageMagik and MediaInfo as data and image engines for fast ingest, still and animated thumbs, profesional color management, image sequences, data integrity, metadata and more.
+It also uses OpenImageIO, FFmpeg, ImageMagik and MediaInfo as data and image engines for fast ingest, still and animated thumbs done automatically on the fly, profesional color management, image sequences, data integrity checks, metadata and more.
 
 Our engines will continue to allow Crate to grow into new and more professional indutry standard features, many of them already on V2.0
 
