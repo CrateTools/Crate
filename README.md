@@ -16,11 +16,9 @@ No more guesswork, just thumbnails, making it easier than ever to find, organize
 Double-click and the asset will instantly appear in the nodegraph.
 Forget about creating cache images in your OS explorer, Crate does everything for you in the background right inside Nuke.
 
-Crate is a set of Python scripts designed to work with F3D, a fast and minimalist 3D viewer, to provide asset browsing capabilities for splats and geometry in Nuke.
+Crate uses F3D, OpenImageIO, FFmpeg, ImageMagik and MediaInfo as splat, geo, data and image engines for fast ingest, still and animated thumbs done automatically on the fly, professional color management, image sequences, data integrity checks, metadata and more.
 
-It also uses OpenImageIO, FFmpeg, ImageMagik and MediaInfo as data and image engines for fast ingest, still and animated thumbs done automatically on the fly, professional color management, image sequences, data integrity checks, metadata and more.
-
-Our engines will continue to allow Crate to grow into new and more professional indutry standard features, many of them already on V2.0
+Our engines will continue to allow Crate to grow into new and more professional features, many of them already on V2.0
 
 #
 
