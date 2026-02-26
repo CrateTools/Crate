@@ -36,12 +36,6 @@ Crate v1.1
 Installation: please read Crate v1.0 installation intructions.txt
 
 #
-
-You’re welcome to use and modify Crate provided you:
-
-Acknowledge the original creator and link to the source repository https://github.com/CrateTools/Crate in your documentation or materials.
-
-#
 ☕︎ Support: A small 1 Dollar donation helps! ☕︎ https://buymeacoffee.com/cratetools
 
 ⭐ Can’t or don’t feel like donating? No worries at all! Just giving the repo a star helps others discover it, and that support means the world
@@ -84,6 +78,11 @@ ImageMagik, which Crate depends on, is licensed under the ImageMagick License (t
 FFmpeg, which Crate depends on, is under the GNU Lesser General Public License version 2.1 or later (LGPL v2.1+), most files in FFmpeg, not all, support this license.
 
 MediaInfo, which Crate depends on, is under the BSD 2-Clause License
+
+#
+You’re welcome to use and modify Crate provided you:
+
+Acknowledge the original creator and link to the source repository https://github.com/CrateTools/Crate in your documentation or materials.
 
 OpenImageIO, which Crate depends on, is under Apache License.
 
