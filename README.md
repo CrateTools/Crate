@@ -30,12 +30,6 @@ Official Crate youtube playlist: https://www.youtube.com/playlist?list=PLPqEIUVf
 # CRATE V2.0 Screenshots Soon
 
 #
-
-Crate v1.1
-
-Installation: please read Crate v1.0 installation intructions.txt
-
-#
 ☕︎ Support: A small 1 Dollar donation helps! ☕︎ https://buymeacoffee.com/cratetools
 
 ⭐ Can’t or don’t feel like donating? No worries at all! Just giving the repo a star helps others discover it, and that support means the world
