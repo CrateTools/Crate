@@ -37,7 +37,7 @@ Installation: please read Crate v1.0 installation intructions.txt
 
 #
 
-You’re welcome to adapt Crate for these tools, provided you:
+You’re welcome to use and modify Crate provided you:
 
 Acknowledge the original creator and link to the source repository https://github.com/CrateTools/Crate in your documentation or materials.
 
