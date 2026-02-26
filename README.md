@@ -47,24 +47,6 @@ Installation: please read Crate v1.0 installation intructions.txt
 📄 Contribute improvements and tickets/issues
 
 #
-
-Crate engines links
-
-https://github.com/ImageMagick  (Crate v2.0)
-
-https://github.com/f3d-app  (Crate v1.1 and v2.0)
-
-https://github.com/AcademySoftwareFoundation  (Crate v2.0)
-
-https://github.com/pitvfx/OpenImageIO  (Crate v2.0)
-
-https://github.com/MediaArea/MediaInfo  (Crate v2.0)
-
-https://github.com/FFmpeg  (Crate v2.0)
-
-Special thanks to all our engines for your fantastic work and contribution, Crate would be impossible without you!
-
-#
 License: please read Crate Licence.md
 
 Adhere to the terms of the Crate License, which prohibits commercial sales but allows donations and modifications.
@@ -82,3 +64,16 @@ MediaInfo, which Crate depends on, is under the BSD 2-Clause License
 OpenImageIO, which Crate depends on, is under Apache License.
 
 #
+Crate engines links
+
+https://github.com/ImageMagick  (Crate v2.0)
+
+https://github.com/f3d-app  (Crate v1.1 and v2.0)
+
+https://github.com/AcademySoftwareFoundation  (Crate v2.0)
+
+https://github.com/pitvfx/OpenImageIO  (Crate v2.0)
+
+https://github.com/MediaArea/MediaInfo  (Crate v2.0)
+
+https://github.com/FFmpeg  (Crate v2.0)
