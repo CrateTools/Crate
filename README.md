@@ -4,6 +4,7 @@
 #
 
 # CRATE V2.0 FOR ☢️NUKE17 COMING SOON
+Screenshots Soon
 
 Crate is the first 3D browser for Nuke that generates thumbnails from geometry and gaussian splats automatically for you.
 
@@ -23,9 +24,6 @@ Our engines will continue to allow Crate to grow into new and more professional 
 #
 
 Official Crate youtube playlist: https://www.youtube.com/playlist?list=PLPqEIUVfnnz6pt2Bg8_i-BTS6PeyLD2nX
-#
-
-# CRATE V2.0 Screenshots Soon
 
 #
 ☕︎ Support: A small 1 Dollar donation helps! ☕︎ https://buymeacoffee.com/cratetools
