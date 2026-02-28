@@ -15,7 +15,7 @@ New studio professional tools, Curators vs Visitors access, user read and write 
 
 Library objects vs storage tiers it allows to have the thumbnails and animated previews on a separate cache. You might choose to locate the cache over ssd/nvme disk and the raw elements on an array or high capacity disk.
 
-We´re are working to build a first solid foundation and allow users to iterate their versions easily.
+We´re are working to build a first long term solid foundation and allow users to iterate their versions easily.
 
 #
 
