@@ -23,9 +23,6 @@ Crate is the first 3D browser for Nuke that generates thumbnails from geometry a
 
 #
 
-Supported Formarts: usd, usda, usdc, usdz, abc, splat, spz, ply, fbx, obj, 3ds, wrl, dae, off, x, 3mf, gltf/.glb, pts, xbf, and more.
-#
-
 No more guesswork, just thumbnails, making it easier than ever to find, organize, and access your 3D resources.
 Double-click and the asset will instantly appear in the nodegraph.
 Forget about creating cache images in your OS explorer, Crate does everything for you in the background right inside Nuke.
@@ -35,19 +32,16 @@ Crate uses F3D, OpenImageIO, FFmpeg, ImageMagik and MediaInfo as splat, geo, dat
 Our engines will continue to allow Crate to grow into new and more professional features, many of them already on V2.0
 
 #
-
 Official Crate youtube playlist: https://www.youtube.com/playlist?list=PLPqEIUVfnnz6pt2Bg8_i-BTS6PeyLD2nX
 
 #
-☕︎ Support: A small 1 Dollar donation helps! ☕︎ https://buymeacoffee.com/cratetools
 
-⭐ Can’t or don’t feel like donating? No worries at all! Just giving the repo a star helps others discover it, and that support means the world
+Some of the supported formarts covering image, geometry and gaussian splats:
 
-🌍 Share this tool with anyone you think would enjoy it! 🌍
+abc, avi, bmp, dae, dds, dnxhd, dpx, exr, fbx, gif, glb, gltf, hdr, ico, jpeg, jpg, m2v, m4v, mkv, mov, mp4, mpeg, mpg, mxf,
+obj, off, pbm, pfm, pgm, pic, ply, png, ppm, prores, psd, pts, splat, spz, stl, tga, tif, tiff, usd, usda, usdc, usdz, vrml, 
+vtp, vtu, webm, webp, wmv, wrl, xyz, y4m, yuv and more...
 
-🪲 Report any bugs you come across
-
-📄 Contribute improvements and tickets/issues
 
 #
 License: please read Crate Licence.md
@@ -80,3 +74,15 @@ https://github.com/pitvfx/OpenImageIO  (Crate v2.0)
 https://github.com/MediaArea/MediaInfo  (Crate v2.0)
 
 https://github.com/FFmpeg  (Crate v2.0)
+
+#
+☕︎ Support: A small 1 Dollar donation helps! ☕︎ https://buymeacoffee.com/cratetools
+
+⭐ Can’t or don’t feel like donating? No worries at all! Just giving the repo a star helps others discover it, and that support means the world
+
+🌍 Share this tool with anyone you think would enjoy it! 🌍
+
+🪲 Report any bugs you come across
+
+📄 Contribute improvements and tickets/issues
+
