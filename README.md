@@ -5,8 +5,6 @@
 
 # CRATE V2.0 FOR ☢️NUKE17 COMING SOON
 
-#
-
 Screenshots Soon
 
 Note: Crate V2.0 is a major update both for it´s interface, functions, engines and code. It works very different compared to V1.1., a clean install is needed.
