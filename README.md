@@ -76,8 +76,6 @@ https://github.com/FFmpeg  (Crate v2.0)
 #
 ☕︎ Support: A small 1 Dollar donation helps! ☕︎ https://buymeacoffee.com/cratetools
 
-⭐ Don’t feel like donating..? direct you mouse cursor over the star button up right and when is over it do a mouse click.
-
 🌍 Share this tool with anyone you think would enjoy it! 🌍
 
 🪲 Report any bugs you come across
