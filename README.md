@@ -7,7 +7,7 @@ Note: Crate V2.0 is a major update both for it´s interface, functions, engines 
 
 New studio professional tools, Curators vs Visitors access, user read and write privileges, user interface privileges according to role. 
 
-Library objects vs storage tiers it allows to have the thumbnails and animated previews on a separate cache. You might choose to locate the cache over ssd/nvme disk and the raw elements on an array or high capacity disk.
+Library objects vs storage tiers it allows to have the thumbnails and animated previews on a separate cache. You might choose to locate the cache over ssd/nvme disk and the raw elements on an array or high capacity disks.
 
 We´re are working to build a first long term solid foundation and allow users to iterate their versions easily.
 
