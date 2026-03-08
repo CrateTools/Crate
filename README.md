@@ -66,11 +66,3 @@ https://github.com/MediaArea/MediaInfo  (Crate v2.0)
 https://github.com/FFmpeg  (Crate v2.0)
 
 #
-☕︎ Support: A small 1 Dollar donation helps! ☕︎ https://buymeacoffee.com/cratetools
-
-🌍 Share this tool with anyone you think would enjoy it! 🌍
-
-🪲 Report any bugs you come across
-
-📄 Contribute improvements and tickets/issues
-
