@@ -1,9 +1,7 @@
 <img width="1917" height="621" alt="long banner_04" src="https://github.com/user-attachments/assets/dd3d392a-50fe-4c9a-813b-be1492170b49" />
 
-Crate is the first 3D browser for Nuke that generates thumbnails from geometry and gaussian splats automatically for you.
-
-
 # CRATE V2.0 FOR ☢️NUKE 17 COMING SOON
+Crate is the first 3D browser for Nuke that generates thumbnails from geometry and gaussian splats automatically for you.
 
 Note: Crate V2.0 is a major update both for it´s interface, functions, engines and code. It works very different compared to V1.1., a clean install is needed.
 
