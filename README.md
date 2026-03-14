@@ -69,10 +69,15 @@ https://github.com/FFmpeg  (Crate v2.0)
 Included Plugins (Crate v2.0)
 
 BulkRename
+
 DJV
+
 Notepad++
+
 OpenRV
+
 VLC Media Player
+
 XnView
 
 #
