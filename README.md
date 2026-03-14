@@ -66,3 +66,18 @@ https://github.com/MediaArea/MediaInfo  (Crate v2.0)
 https://github.com/FFmpeg  (Crate v2.0)
 
 #
+Included Plugins (Crate v2.0)
+
+BulkRename
+DJV
+Notepad++
+OpenRV
+VLC Media Player
+XnView
+
+#
+Included databases (Crate v2.0)
+
+https://vfxcamdb.com/
+
+
