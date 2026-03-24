@@ -87,4 +87,9 @@ https://vfxcamdb.com/
 
 https://camdb.matchmovemachine.com/
 
+#
+Included processors
+
+https://github.com/francescofugazzi/3dgsconverter
+
 
