@@ -65,8 +65,6 @@ https://github.com/MediaArea/MediaInfo  (Crate v2.0)
 
 https://github.com/FFmpeg  (Crate v2.0)
 
-https://www.lizardq.com/en/viewer/ (Crate v2.0)
-
 #
 Included Plugins (Crate v2.0)
 
@@ -81,6 +79,10 @@ OpenRV
 VLC Media Player
 
 XnView
+
+https://www.lizardq.com/en/viewer/ (Crate v2.0)
+
+https://github.com/Tom94/tev (Crate v2.0)
 
 #
 Included databases (Crate v2.0)
