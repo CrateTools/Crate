@@ -94,6 +94,7 @@ https://camdb.matchmovemachine.com/
 #
 Included processors
 
-https://github.com/francescofugazzi/3dgsconverter
+[https://github.com/francescofugazzi/3dgsconverter](https://github.com/antimatter15/splat)
+Used for crate_ply_to_splat.py
 
 
