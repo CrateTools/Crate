@@ -92,7 +92,7 @@ https://vfxcamdb.com/
 https://camdb.matchmovemachine.com/
 
 #
-Included processors
+Included processors (Crate v2.0)
 
 [https://github.com/francescofugazzi/3dgsconverter](https://github.com/antimatter15/splat)
 Used for crate_ply_to_splat.py
