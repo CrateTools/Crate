@@ -5,6 +5,8 @@ Crate is the first 3D browser for Nuke that generates thumbnails from geometry a
 
 Note: Crate V2.0 is a major update both for it´s interface, functions, engines and code. It works very different compared to V1.1., a clean install is needed.
 
+Will be compatible with PySide2 to PySide6m across Nuke 15 16 17
+
 New studio professional tools, Curators vs Visitors access, user read and write privileges, user interface privileges according to role. 
 
 Library objects vs storage tiers it allows to have the thumbnails and animated previews on a separate cache. You might choose to locate the cache over ssd/nvme disk and the raw elements on an array or high capacity disks.
