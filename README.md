@@ -1,4 +1,4 @@
-<img width="1917" height="621" alt="long banner_04" src="https://github.com/user-attachments/assets/dd3d392a-50fe-4c9a-813b-be1492170b49" />
+<img width="2738" height="860" alt="crate_FireCarbon_2k_01" src="https://github.com/user-attachments/assets/ac5381a6-4cfe-46fe-9331-527835084971" />
 
 # CRATE V2.0 FOR ☢️NUKE 17 COMING SOON
 Crate is the first 3D browser for Nuke that generates thumbnails from geometry and gaussian splats automatically for you.
