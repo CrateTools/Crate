@@ -13,7 +13,7 @@ We´re are working to build a first long term solid foundation and allow studios
 
 #
 
-No more guesswork, just thumbnails, making it easier than ever to find, organize, and access your 3D resources.
+No more guesswork, just thumbnails, making it easier than ever to find, organize, and access your 2D and 3D resources.
 Double-click and the asset will instantly appear in the nodegraph.
 Forget about creating cache images in your OS explorer, Crate does everything for you in the background right inside Nuke.
 
