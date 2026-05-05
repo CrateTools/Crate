@@ -66,30 +66,63 @@ https://github.com/MediaArea/MediaInfo  (Crate v2.0)
 https://github.com/FFmpeg  (Crate v2.0)
 
 #
-Included Plugins (Crate v2.0)
+Recommended Apps that you can link to Crate ad "Open With" on Crate Settings (Crate v2.0)
 
-BulkRename
+  Open RV
+    https://github.com/AcademySoftwareFoundation/OpenRV
+    Licence: Apache-2.0
+    Use: media review and playback for image sequences and video.
+    Get installers for windows and linux below thanks to kimda90
+    https://github.com/kimda90/OpenRV-Releases
 
-DJV
+  DJV
+    https://github.com/grizzlypeak3d/DJV
+    Licence: BSD-3-Clause
+    Use: high-bit-depth image sequence and video player.
 
-Notepad++
+  VLC media player
+    https://www.videolan.org/vlc
+    Licence: GNU General Public License v2 or later (GPLv2+).
+    libVLC core is LGPL-2.1+; the VLC application as a whole is GPLv2+.
+    Use: general-purpose video and audio playback.
 
-OpenRV
+  XnView MP (xnviewmp_Portable)
+    https://www.xnview.com/en/xnviewmp/
+    Licence: Proprietary freeware. Free for private, public-entity, and
+    educational use, including non-profit organisations. Commercial use
+    requires a paid licence from XnSoft. Studios using XnView MP in
+    paid production work are responsible for obtaining the appropriate
+    XnView licence directly from XnSoft.
+    Use: image and texture browsing and conversion.
 
-VLC Media Player
+  Notepad++
+    https://notepad-plus-plus.org
+    Licence: GNU General Public License v3 or later (GPLv3+)
+    Use: editing text-based asset descriptors, configuration files,
+    and shader/script files.
 
-XnView
+  Bulk Rename Utility (Bulk Rename_Portable)
+    https://www.bulkrenameutility.co.uk
+    Licence: Proprietary freeware. Free for personal/home use.
+    Commercial use requires a paid licence from TGRMN Software.
+    Studios using Bulk Rename Utility in paid production work are
+    responsible for obtaining the appropriate licence directly from
+    TGRMN Software.
+    Use: batch-renaming asset files.
 
-https://www.lizardq.com/en/viewer/ (Crate v2.0)
+  LizardQ Spherical Pano Viewer
+    https://www.lizardq.com
+    Licence: Proprietary freeware (vendor-supplied viewer).
+    Use: 360° panorama playback.
 
-https://github.com/Tom94/tev (Crate v2.0)
+  tev — The HDR/EDR Viewer
+    https://github.com/Tom94/tev
+    Licence: GNU General Public License v3 (GPLv3) for current versions
+    (v1.31 and later). Older versions (v1.30 and earlier) were
+    BSD-3-Clause.
+    Use: HDR / OpenEXR inspection, false-colour comparison, pixel
+    peeping.
 
-#
-Included databases (Crate v2.0)
-
-https://vfxcamdb.com/
-
-https://camdb.matchmovemachine.com/
 
 #
 Included processors (Crate v2.0)
