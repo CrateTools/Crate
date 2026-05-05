@@ -1,6 +1,6 @@
-Crate License
+Crate V1.0 License
 
-Copyright (c) 2025 Nicolas Landajo
+Copyright (c) 2025 CrateTools
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software
 and associated documentation files (the "Software"), to deal in the Software, including without
