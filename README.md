@@ -66,7 +66,7 @@ https://github.com/MediaArea/MediaInfo  (Crate v2.0)
 https://github.com/FFmpeg  (Crate v2.0)
 
 #
-Recommended Apps that you can link to Crate ad "Open With" on Crate Settings (Crate v2.0)
+Recommended Apps that you can link to Crate as right click "Open With" available on Crate Settings (Crate v2.0)
 
   Open RV
     https://github.com/AcademySoftwareFoundation/OpenRV
