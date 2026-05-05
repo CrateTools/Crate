@@ -1,4 +1,4 @@
-Crate V1.0 License
+Crate V1.0 and V1.1 License
 
 Copyright (c) 2025 CrateTools
 
