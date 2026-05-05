@@ -70,6 +70,8 @@ Included processors (Crate v2.0)
 
 [https://github.com/francescofugazzi/3dgsconverter](https://github.com/antimatter15/splat)
 
+Used for crate_ply_to_splat.py
+
 #
 Recommended Apps that you can link to Crate as right click "Open With" available on Crate Settings (Crate v2.0)
 
@@ -127,7 +129,5 @@ Recommended Apps that you can link to Crate as right click "Open With" available
     BSD-3-Clause.
     Use: HDR / OpenEXR inspection, false-colour comparison, pixel
     peeping.
-
-Used for crate_ply_to_splat.py
 
 
