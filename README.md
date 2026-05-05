@@ -73,7 +73,7 @@ Included processors (Crate v2.0)
 Used for crate_ply_to_splat.py
 
 #
-Recommended Apps that you can link to Crate as right click "Open With" available on Crate Settings (Crate v2.0)
+Recommended Apps that you can link to Crate´s right click "Open With" available on Crate Settings (Crate v2.0)
 
   Open RV
     https://github.com/AcademySoftwareFoundation/OpenRV
