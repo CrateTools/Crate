@@ -66,6 +66,11 @@ https://github.com/MediaArea/MediaInfo  (Crate v2.0)
 https://github.com/FFmpeg  (Crate v2.0)
 
 #
+Included processors (Crate v2.0)
+
+[https://github.com/francescofugazzi/3dgsconverter](https://github.com/antimatter15/splat)
+
+#
 Recommended Apps that you can link to Crate as right click "Open With" available on Crate Settings (Crate v2.0)
 
   Open RV
@@ -123,11 +128,6 @@ Recommended Apps that you can link to Crate as right click "Open With" available
     Use: HDR / OpenEXR inspection, false-colour comparison, pixel
     peeping.
 
-
-#
-Included processors (Crate v2.0)
-
-[https://github.com/francescofugazzi/3dgsconverter](https://github.com/antimatter15/splat)
 Used for crate_ply_to_splat.py
 
 
