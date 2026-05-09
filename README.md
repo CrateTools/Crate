@@ -34,11 +34,8 @@ vtp, vtu, webm, webp, wmv, wrl, xyz, y4m, yuv and more...
 
 
 #
-License: please read Crate Licence.md
 
-Adhere to the terms of the Crate License, which prohibits commercial sales but allows donations and modifications.
-
-Crate is licensed under the Crate License, a permissive license with restrictions on commercial sales. See Crate LICENSE.md for details.
+Crate is under Apache License.
 
 F3D, which Crate depends on, is licensed under the BSD 3-Clause License.
 
