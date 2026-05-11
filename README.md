@@ -63,7 +63,7 @@ https://github.com/MediaArea/MediaInfo
 https://github.com/FFmpeg
 
 
-# Credits & Acknowledgments
+## Credits & Acknowledgments
 
 
 # Included processors
