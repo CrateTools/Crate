@@ -49,9 +49,8 @@ MediaInfo, which Crate depends on, is under the BSD 2-Clause License
 
 OpenImageIO, which Crate depends on, is under Apache License.
 
-#
 
-## Crate engines links
+## Crate engines
 
 https://github.com/ImageMagick
 
