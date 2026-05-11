@@ -72,7 +72,7 @@ WebGL 3D Gaussian Splat Viewer
 
 [https://github.com/francescofugazzi/3dgsconverter](https://github.com/antimatter15/splat)
 
-Used for crate_ply_to_splat.py
+Used as ply to splat converter
 
 ## Camera Database
 
