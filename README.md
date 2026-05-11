@@ -19,7 +19,7 @@ Forget about creating cache images in your OS explorer, Crate does everything fo
 
 Crate uses F3D, OpenImageIO, FFmpeg, ImageMagik and MediaInfo as splat, geo, data and image engines for fast ingest, still and animated thumbs done automatically on the fly, professional color management, image sequences, data integrity checks, metadata and more.
 
-The engines will continue to allow Crate to grow into new and more professional features, many of them already on V2.0
+The engines will continue to allow Crate to grow into new and more professional features, many of them already on new V2.0
 
 #
 Official Crate youtube playlist: https://www.youtube.com/playlist?list=PLPqEIUVfnnz6pt2Bg8_i-BTS6PeyLD2nX
@@ -35,6 +35,8 @@ vtp, vtu, webm, webp, wmv, wrl, xyz, y4m, yuv and more...
 
 #
 
+### Licenses
+
 Crate is under Apache License.
 
 F3D, which Crate depends on, is licensed under the BSD 3-Clause License.
@@ -48,29 +50,45 @@ MediaInfo, which Crate depends on, is under the BSD 2-Clause License
 OpenImageIO, which Crate depends on, is under Apache License.
 
 #
-Crate engines links
 
-https://github.com/ImageMagick  (Crate v2.0)
+## Crate engines links
 
-https://github.com/f3d-app  (Crate v1.1 and v2.0)
+https://github.com/ImageMagick
 
-https://github.com/AcademySoftwareFoundation  (Crate v2.0)
+https://github.com/f3d-app
 
-https://github.com/pitvfx/OpenImageIO  (Crate v2.0)
+https://github.com/AcademySoftwareFoundation
 
-https://github.com/MediaArea/MediaInfo  (Crate v2.0)
+https://github.com/pitvfx/OpenImageIO
 
-https://github.com/FFmpeg  (Crate v2.0)
+https://github.com/MediaArea/MediaInfo
+
+https://github.com/FFmpeg
 
 #
-Included processors (Crate v2.0)
+
+## Credits & Acknowledgments
+
+
+## Included processors
 
 [https://github.com/francescofugazzi/3dgsconverter](https://github.com/antimatter15/splat)
 
 Used for crate_ply_to_splat.py
 
 #
-Recommended Apps that you can link to Crate´s right click "Open With" available on Crate Settings (Crate v2.0)
+
+### Camera Database
+
+Crate's Camera module ships with a reference database of digital cinema, broadcast, drone, mobile, and film camera sensor specifications. This data is derived in part from **[VFXCamDB.com](https://vfxcamdb.com)**, maintained by **Tony D'Agostino**.
+
+We are genuinely grateful and the Camera module would not exist in its current form without his work. If you find this data useful, please consider [supporting VFXCamDB](https://vfxcamdb.com) directly.
+
+Any inaccuracies in Crate's database are ours, not VFXCamDB's; corrections are welcome via the issue tracker, and significant ones will be reported back to VFXCamDB as well.
+
+#
+
+## Recommended Apps that you can link to Crate´s right click "Open With" available on Crate Settings
 
   Open RV
     https://github.com/AcademySoftwareFoundation/OpenRV
