@@ -33,8 +33,6 @@ obj, off, pbm, pfm, pgm, pic, ply, png, ppm, prores, psd, pts, splat, spz, stl, 
 vtp, vtu, webm, webp, wmv, wrl, xyz, y4m, yuv and more...
 
 
-#
-
 ### Licenses
 
 Crate is under Apache License.
