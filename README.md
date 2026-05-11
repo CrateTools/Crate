@@ -33,7 +33,7 @@ obj, off, pbm, pfm, pgm, pic, ply, png, ppm, prores, psd, pts, splat, spz, stl, 
 vtp, vtu, webm, webp, wmv, wrl, xyz, y4m, yuv and more...
 
 
-### Licenses
+#Licenses
 
 Crate is under Apache License.
 
@@ -48,7 +48,7 @@ MediaInfo, which Crate depends on, is under the BSD 2-Clause License
 OpenImageIO, which Crate depends on, is under Apache License.
 
 
-### Crate engines
+#Crate engines
 
 https://github.com/ImageMagick
 
@@ -63,7 +63,7 @@ https://github.com/MediaArea/MediaInfo
 https://github.com/FFmpeg
 
 
-### Credits & Acknowledgments
+# Credits & Acknowledgments
 
 
 # Included processors
@@ -80,7 +80,7 @@ We are genuinely grateful and the Camera module would not exist in its current f
 
 Any inaccuracies in Crate's database are ours, not VFXCamDB's; corrections are welcome via the issue tracker, and significant ones will be reported back to VFXCamDB as well.
 
-### Recommended Apps that you can link to Crate´s right click "Open With" available on Crate Settings
+# Recommended Apps that you can link to Crate´s right click "Open With" available on Crate Settings
 
   Open RV
     https://github.com/AcademySoftwareFoundation/OpenRV
