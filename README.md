@@ -63,16 +63,16 @@ https://github.com/MediaArea/MediaInfo
 https://github.com/FFmpeg
 
 
-## Credits & Acknowledgments
+# Credits & Acknowledgments
 
 
-# Included processors
+## Included processors
 
 [https://github.com/francescofugazzi/3dgsconverter](https://github.com/antimatter15/splat)
 
 Used for crate_ply_to_splat.py
 
-# Camera Database
+## Camera Database
 
 Crate's Camera module ships with a reference database of digital cinema, broadcast, drone, mobile, and film camera sensor specifications. This data is derived in part from **[VFXCamDB.com](https://vfxcamdb.com)**, maintained by **Tony D'Agostino**.
 
