@@ -48,7 +48,7 @@ MediaInfo, which Crate depends on, is under the BSD 2-Clause License
 OpenImageIO, which Crate depends on, is under Apache License.
 
 
-## Crate engines
+### Crate engines
 
 https://github.com/ImageMagick
 
@@ -62,20 +62,17 @@ https://github.com/MediaArea/MediaInfo
 
 https://github.com/FFmpeg
 
-#
 
-## Credits & Acknowledgments
+### Credits & Acknowledgments
 
 
-## Included processors
+# Included processors
 
 [https://github.com/francescofugazzi/3dgsconverter](https://github.com/antimatter15/splat)
 
 Used for crate_ply_to_splat.py
 
-#
-
-### Camera Database
+# Camera Database
 
 Crate's Camera module ships with a reference database of digital cinema, broadcast, drone, mobile, and film camera sensor specifications. This data is derived in part from **[VFXCamDB.com](https://vfxcamdb.com)**, maintained by **Tony D'Agostino**.
 
@@ -83,9 +80,7 @@ We are genuinely grateful and the Camera module would not exist in its current f
 
 Any inaccuracies in Crate's database are ours, not VFXCamDB's; corrections are welcome via the issue tracker, and significant ones will be reported back to VFXCamDB as well.
 
-#
-
-## Recommended Apps that you can link to Crate´s right click "Open With" available on Crate Settings
+### Recommended Apps that you can link to Crate´s right click "Open With" available on Crate Settings
 
   Open RV
     https://github.com/AcademySoftwareFoundation/OpenRV
