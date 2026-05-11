@@ -66,7 +66,9 @@ https://github.com/FFmpeg
 # Credits & Acknowledgments
 
 
-## Included processors
+## Splat
+
+WebGL 3D Gaussian Splat Viewer
 
 [https://github.com/francescofugazzi/3dgsconverter](https://github.com/antimatter15/splat)
 
