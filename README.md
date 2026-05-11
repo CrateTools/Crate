@@ -18,7 +18,7 @@ No more guesswork, just thumbnails, making it easier than ever to find, organize
 Double-click and the asset will instantly appear in the nodegraph.
 Forget about creating cache images in your OS explorer, Crate does everything for you in the background right inside Nuke.
 
-Crate uses F3D, OpenImageIO, FFmpeg, ImageMagik and MediaInfo as splat, geo, data and image engines for fast ingest, still and animated thumbs done automatically on the fly, professional color management, image sequences, data integrity checks, metadata and more.
+Crate uses F3D, OpenImageIO, FFmpeg, ImageMagik and MediaInfo as splat, geo, metadata, video and images for fast ingest, still and animated thumbs done automatically on the fly with professional color management.
 
 The engines will continue to allow Crate to grow into new and more professional features, many of them already on new V2.0
 
