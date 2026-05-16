@@ -75,7 +75,9 @@ WebGL 3D Gaussian Splat Viewer
 
 Used as ply to splat converter
 
-## Camera Database
+## Crate Camera Database
+
+Lives on [https://github.com/francescofugazzi/3dgsconverter](https://github.com/CrateTools/CrateCamDB) and Curators can update from it right from Crate´s interface.
 
 Crate's Camera module ships with a reference database of digital cinema, broadcast, drone, mobile, and film camera sensor specifications. This data is derived in part from **[VFXCamDB.com](https://vfxcamdb.com)**, maintained by **Tony D'Agostino**.
 
