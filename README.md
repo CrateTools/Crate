@@ -23,8 +23,7 @@ Crate uses F3D, OpenImageIO, FFmpeg, ImageMagik and MediaInfo as splat, geo, met
 The engines will continue to allow Crate to grow into new and more professional features, many of them already on new V2.0
 
 #
-Official Crate youtube playlist: https://www.youtube.com/playlist?list=PLPqEIUVfnnz6pt2Bg8_i-BTS6PeyLD2nX
-
+Official Crate youtube playlist soon
 #
 
 Some of the supported formarts covering image, geometry and gaussian splats:
