@@ -78,7 +78,7 @@ Used as ply to splat converter
 
 Lives on [https://github.com/CrateTools/CrateCamDB](https://github.com/CrateTools/CrateCamDB) and Curators can update from it right from Crate´s interface.
 
-As of May 2026 the database is being double checked again for over 350 total sensors. If yo want to know the last checked camera visit the "Camera checked by Crate up to" Discussion. This process will finish around July 2026.
+As of May 2026 the database is being double checked again for over 350 total sensors. If you want to know the last checked camera of the list visit the "Camera checked by Crate up to" Discussion. This process will finish around July/August 2026.
 
 Crate's Camera module ships with a reference database of digital cinema, broadcast, drone, mobile, and film camera sensor specifications. This data is derived in part from **[VFXCamDB](https://vfxcamdb.com)** maintained by **Tony D'Agostino** and **[Matchmove machine](https://camdb.matchmovemachine.com/)** maintained by **Matchmove machine**.
 
