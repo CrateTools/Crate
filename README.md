@@ -140,5 +140,8 @@ Any inaccuracies in Crate's database are ours, not Vfx Camera Database and Match
     BSD-3-Clause.
     Use: HDR / OpenEXR inspection, false-colour comparison, pixel
     peeping.
+    
+   SuperSplat - Online splat editor server using local gpu
+    https://superspl.at/editor
 
 
