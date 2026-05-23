@@ -143,5 +143,8 @@ Any inaccuracies in Crate's database are ours, not Vfx Camera Database and Match
     
    SuperSplat - Online splat editor server using local gpu
     https://superspl.at/editor
+    
+   F3D WebViewer - Online splat viewer server using local gpu
+    https://f3d.app/viewer/
 
 
