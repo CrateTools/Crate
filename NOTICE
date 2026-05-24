@@ -1,0 +1,291 @@
+================================================================================
+Crate
+================================================================================
+
+Crate
+Copyright (c) 2025-2026 Nicolas Landajo
+
+This product is licensed under the Apache License, Version 2.0 (the "License").
+You may obtain a copy of the License in the accompanying LICENSE file or at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Project home: https://github.com/CrateTools/Crate
+
+================================================================================
+ATTRIBUTION
+================================================================================
+
+If you redistribute Crate or a derivative of it, please retain this NOTICE
+file as required by Section 4(d) of the Apache License 2.0. The contents of
+this file are informational and do not modify the License.
+
+A user-visible acknowledgement of the original project is appreciated where
+practical (for example, in an About dialog or documentation footer):
+
+    "Based on Crate by Nicolas Landajo —
+     https://github.com/CrateTools/Crate"
+
+This is a request, not a requirement of the License.
+
+================================================================================
+USER RESPONSIBILITY
+================================================================================
+
+By using Crate you acknowledge and accept the following:
+
+  1. You are solely responsible for how you use Crate, including any
+     output it produces, any files it modifies, any caches it writes,
+     and any third-party software it invokes on your behalf. The
+     "Disclaimer of Warranty" and "Limitation of Liability" sections of
+     the Apache License 2.0 apply in full.
+
+  2. Crate performs file operations including thumbnail generation,
+     cache writes, file moves to a "Library_Bin" trash folder, and
+     metadata writes (".meta.json" files alongside assets). You are
+     responsible for ensuring you have the necessary permissions on
+     your file systems and for maintaining your own backups of any
+     irreplaceable data.
+
+  3. Crate caches thumbnails and sprite frames on disk in a location
+     of your choice. You are responsible for managing the size and
+     contents of these caches and for ensuring the cache directory
+     does not contain sensitive material that would be exposed via
+     the cache to other users sharing the same cache path.
+
+  4. Crate does not transmit data over the network. Any network
+     activity observed during use of Crate originates from Nuke
+     itself or from third-party tools that Crate has invoked at your
+     request, not from Crate's own code.
+
+  5. You are responsible for the legality of the assets you browse,
+     import, modify, or distribute using Crate. Crate does not perform
+     copyright or licensing checks on user content. Importing assets
+     into Nuke via Crate's "Add to Cart" or import features does not
+     grant you any rights to those assets that you did not already have.
+
+  6. You are responsible for ensuring that your use of Crate complies
+     with the licence terms of every third-party tool that Crate may
+     invoke (see "Third-Party Software" below). The author of Crate
+     is not a party to those licences and provides no warranty
+     regarding their compatibility with your use case.
+
+================================================================================
+THIRD-PARTY SOFTWARE
+================================================================================
+
+Crate invokes the following third-party command-line tools and applications
+as external processes. Crate does NOT statically link to, embed, or
+incorporate the source code of any of these tools. They are independent
+programs that the end user must install and license separately. Crate
+communicates with them only through standard subprocess calls (command-line
+arguments, file I/O, and process exit codes).
+
+Because Crate uses these tools as separate processes — not as linked
+libraries — Crate is not a derivative work of those programs under their
+respective licences. Each tool remains under its own licence, and any
+redistribution of those tools (whether bundled with Crate or distributed
+separately) must comply with that tool's individual licence terms.
+
+If you redistribute Crate together with pre-packaged copies of any of
+these tools, you are responsible for complying with the licensing,
+attribution, and source-availability requirements of each bundled tool.
+Crate's Apache 2.0 licence does NOT grant any rights over these
+third-party tools, and the original author of Crate is not responsible
+for licence compliance regarding them.
+
+--------------------------------------------------------------------------------
+THUMBNAIL & MEDIA ENGINES (required for full functionality)
+--------------------------------------------------------------------------------
+
+  F3D
+    https://f3d.app
+    Licence: BSD 3-Clause
+    Use: 3D model thumbnail generation (OBJ, FBX, ABC, STL, GLTF, GLB,
+    USD, USDC).
+
+  ImageMagick
+    https://imagemagick.org
+    Licence: ImageMagick License (Apache-2.0-derived)
+    Use: 2D texture and image format thumbnail generation, brightness
+    and colour adjustment.
+
+  FFmpeg
+    https://ffmpeg.org
+    Licence: GNU Lesser General Public License v2.1 or later (LGPL-2.1+)
+    for the libraries; some optional components are GPL-2.1+. The
+    licence of an FFmpeg binary depends on which components were enabled
+    when it was built. Crate invokes the FFmpeg command-line program
+    as an external process.
+    Use: video and image-sequence frame extraction, sprite-sheet
+    generation.
+
+  OpenImageIO (oiiotool)
+    https://openimageio.org
+    Licence: Apache-2.0 (with a small amount of pre-2023 code under
+    BSD-3-Clause)
+    Use: high-bit-depth image processing; DPX/EXR/HDR thumbnail
+    generation with colour management.
+
+  MediaInfo (CLI)
+    https://mediaarea.net/MediaInfo
+    Licence: BSD-2-Clause
+    Use: video and sequence metadata extraction (resolution, codec,
+    duration, frame count).
+
+--------------------------------------------------------------------------------
+"OPEN WITH" PLUGINS (optional external viewers and tools)
+--------------------------------------------------------------------------------
+
+The following applications are not required for Crate to function. Users
+may configure Crate to invoke them via the right-click "Open With" menu
+to view or edit assets in their preferred external tool. Crate launches
+these applications via subprocess only when the user explicitly chooses
+them from the Open With menu. The user is responsible for installing
+each tool and complying with its licence.
+
+  Open RV
+    https://github.com/AcademySoftwareFoundation/OpenRV
+    Licence: Apache-2.0
+    Use: media review and playback for image sequences and video.
+
+  DJV
+    https://github.com/grizzlypeak3d/DJV
+    Licence: BSD-3-Clause
+    Use: high-bit-depth image sequence and video player.
+
+  VLC media player
+    https://www.videolan.org/vlc
+    Licence: GNU General Public License v2 or later (GPLv2+).
+    libVLC core is LGPL-2.1+; the VLC application as a whole is GPLv2+.
+    Use: general-purpose video and audio playback.
+
+  XnView MP (xnviewmp_Portable)
+    https://www.xnview.com/en/xnviewmp/
+    Licence: Proprietary freeware. Free for private, public-entity, and
+    educational use, including non-profit organisations. Commercial use
+    requires a paid licence from XnSoft. Studios using XnView MP in
+    paid production work are responsible for obtaining the appropriate
+    XnView licence directly from XnSoft.
+    Use: image and texture browsing and conversion.
+
+  Notepad++
+    https://notepad-plus-plus.org
+    Licence: GNU General Public License v3 or later (GPLv3+)
+    Use: editing text-based asset descriptors, configuration files,
+    and shader/script files.
+
+  Bulk Rename Utility (Bulk Rename_Portable)
+    https://www.bulkrenameutility.co.uk
+    Licence: Proprietary freeware. Free for personal/home use.
+    Commercial use requires a paid licence from TGRMN Software.
+    Studios using Bulk Rename Utility in paid production work are
+    responsible for obtaining the appropriate licence directly from
+    TGRMN Software.
+    Use: batch-renaming asset files.
+
+  LizardQ Spherical Pano Viewer
+    https://www.lizardq.com
+    Licence: Proprietary freeware (vendor-supplied viewer).
+    Use: 360° panorama playback.
+
+  tev — The HDR/EDR Viewer
+    https://github.com/Tom94/tev
+    Licence: GNU General Public License v3 (GPLv3) for current versions
+    (v1.31 and later). Older versions (v1.30 and earlier) were
+    BSD-3-Clause.
+    Use: HDR / OpenEXR inspection, false-colour comparison, pixel
+    peeping.
+
+--------------------------------------------------------------------------------
+HOST APPLICATION AND IN-PROCESS LIBRARIES
+--------------------------------------------------------------------------------
+
+The following are loaded in-process by Crate via the user's Nuke
+installation. Crate does not redistribute or modify any of them.
+
+  Nuke / NukeX (The Foundry)
+    Crate is a script that runs inside Nuke. It uses Nuke's Python API
+    (the `nuke` module) and Qt bindings (PySide2 on Nuke 15, PySide6
+    on Nuke 16+). Nuke is proprietary commercial software, licensed by
+    The Foundry. A valid Nuke licence is required to run Crate. Crate
+    does not redistribute, modify, or bundle Nuke.
+
+  Qt for Python (PySide2 / PySide6)
+    https://www.qt.io/qt-for-python
+    Licence: GNU Lesser General Public License v3 (LGPLv3) or
+    commercial. Crate uses whichever PySide binding is provided by
+    Nuke and does not redistribute Qt.
+	
+================================================================================
+INCLUDED CODE FROM THIRD-PARTY PROJECTS
+================================================================================
+
+Crate's PLY-to-SPLAT converter (`crate_ply_to_splat.py`) is derived
+from the `convert.py` script in the antimatter15/splat project, used
+under the MIT License.
+
+  splat — WebGL 3D Gaussian Splat Viewer
+    https://github.com/antimatter15/splat
+    Copyright (c) 2023 Kevin Kwok (antimatter15)
+    Licence: MIT
+    A copy of the original MIT licence is included in
+    third_party/antimatter15-splat/LICENSE.
+
+================================================================================
+CAMERA DATABASE
+================================================================================
+
+Crate includes a camera database feature (Settings → Camera Database)
+that allows users to maintain a personal database of camera sensor
+specifications for use with Nuke's Camera nodes.
+The Camera module ships with a reference database of digital cinema,
+broadcast, drone, mobile, and film camera sensor specifications. This
+data is derived in part from VFXCamDB (https://vfxcamdb.com/) maintained
+by Tony D'Agostino and Matchmove machine (https://camdb.matchmovemachine.com/)
+maintained by Matchmove machine, both of whom have granted permission for
+their databases to be used in Crate.
+We are genuinely grateful and the Camera module would not exist in its
+current form without the work of Tony D'Agostino and Matchmove machine.
+If you find this data useful, please consider supporting VFXCamDB
+(https://vfxcamdb.com/donate/) and supporting Matchmove machine
+(https://camdb.matchmovemachine.com/donate) directly.
+Any inaccuracies in Crate's database are ours, not VFXCamDB's or
+Matchmove machine's; corrections are welcome via the issue tracker at
+https://github.com/CrateTools/CrateCamDB, and significant corrections
+will be reported back to the parent databases.
+Users may extend, edit, or replace the camera database freely. The
+camera database is provided under the same Apache 2.0 licence as Crate.
+
+================================================================================
+NO RELATIONSHIP WITH THIRD PARTIES
+================================================================================
+
+Crate is developed by Nicolas Landajo as an independent project. It is
+not affiliated with, endorsed by, or sponsored by The Foundry, the
+Academy Software Foundation, the VideoLAN project, or any of the other
+third-party projects listed above. References to those projects in
+Crate's documentation and source code are descriptive only and do not
+imply any partnership, certification, or approval.
+
+Names and trademarks of third-party projects belong to their respective
+owners.
+
+================================================================================
+TRADEMARKS
+================================================================================
+
+"Crate" and "CrateTools" are used by the original author of this
+software, Nicolas Landajo, to identify this project and its origin.
+Section 6 of the Apache License 2.0 does not grant permission to use
+these names to endorse or promote derivative works. Public derivatives
+should adopt distinct names to avoid confusion with the original Crate.
+
+================================================================================
+CONTACT
+================================================================================
+
+Project home: https://github.com/CrateTools/Crate
+
+For licence questions, third-party compliance questions, or to report a
+violation, please open an issue at the project home above.
