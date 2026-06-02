@@ -1,3 +1,5 @@
+<img width="808" height="201" alt="cratelogo" src="https://github.com/user-attachments/assets/5d8d8ee1-ad63-4055-b8fe-e949b2142038" />
+
 # CRATE V2.0 under contruction
 
 Crate is the first 3D browser for Nuke that generates thumbnails from geometry and gaussian splats automatically for you without intervention.
