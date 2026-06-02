@@ -1,4 +1,4 @@
-<img width="808" height="201" alt="cratelogo" src="https://github.com/user-attachments/assets/5d8d8ee1-ad63-4055-b8fe-e949b2142038" />
+<img width="1009" height="201" alt="cratelogo" src="https://github.com/user-attachments/assets/37514f9a-b08d-40eb-8cd1-fba917e85e9d" />
 
 # CRATE V2.0 under contruction
 
