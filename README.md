@@ -150,4 +150,8 @@ Any inaccuracies in Crate's database are ours, not Vfx Camera Database and Match
    F3D WebViewer - Online splat viewer server using local gpu
     https://f3d.app/viewer/
 
+# Lens explore link thanks to
 
+https://www.cined.com/lens-database/
+
+We hope to add the Cined lens database as soon as we receive permission. In the meantime, we'd like to make their fantastic database available with direct access to the website from the Crate interface.
