@@ -152,7 +152,8 @@ Any inaccuracies in Crate's database are ours, not Vfx Camera Database and Match
    F3D WebViewer - Online splat viewer server using local gpu
     https://f3d.app/viewer/
 
-Read "RECOMMENDED PLUGINS TOOLS & LICENSE NOTICE.txt"
+
+Read "RECOMMENDED PLUGINS TOOLS & LICENSE NOTICE.txt", Using these extensions for commercial and personal projects is the sole responsibility of the user.
 
 # Lens explore link thanks to
 
