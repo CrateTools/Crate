@@ -1,0 +1,23 @@
+1. General Disclaimer
+The software packages provided in this optional download bundle (including but not limited to Bulk Rename Utility, DJV, LizardQ Viewer, Notepad++, OpenRV, tev, VLC, and XnView MP) are independent, third-party applications.
+
+- No Affiliation: This tool/project is not affiliated with, endorsed by, or sponsored by the creators of these third-party applications.
+- Provided "As-Is": These portable executables are provided strictly for convenience to enhance your "Open With" workflow. They are provided "AS IS", without warranty of any kind, express or implied.
+- Limitation of Liability: In no event shall the authors or copyright holders of this Apache 2.0 tool be liable for any claim, damages, or other liability arising from the download, installation, or use of these third-party tools.
+
+2. User Responsibility & Commercial Use Warning
+You (the user) assume all responsibility for the use of these tools. Before using these applications in commercial, corporate, or personal projects, you must independently review and comply with each software's specific end-user license agreement (EULA) or open-source license.
+
+Important: While some of these tools are completely free for all uses, others may have strict restrictions regarding commercial use, modification, or redistribution. The developer of this Apache 2.0 tool does not guarantee that all bundled software is cleared for commercial use in your specific region or industry.
+
+3. Third-Party Software License References
+To review the licenses, please check the respective application folders or visit their official websites:
+
+- Bulk Rename Utility: Free for personal use (Commercial license may be required)
+- DJV: Open Source (BSD-style)
+- LizardQ Viewer: Proprietary / Freeware
+- Notepad++: Open Source (GPL)
+- OpenRV: Open Source (Apache 2.0 / ASWF)
+- tev (The HDR Viewer): Open Source (MIT)
+- VLC Media Player: Open Source (GPL / LGPL)
+- XnView MP: Free for private/educational use (Requires purchase for commercial use)
