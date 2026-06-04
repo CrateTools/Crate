@@ -46,9 +46,9 @@ Your Crate Engines folder should look like this:
 </h3>
 
 Make a designated init.py in your pipe to call and launch Crate with Nuke
-
+<pre>
 nuke.pluginAddPath("path to Crate´s menu.py living inside Crate´s folder")
-
+   </pre>
 
 # ABOUT CRATE
 
