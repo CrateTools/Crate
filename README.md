@@ -2,6 +2,25 @@
 
 # CRATE V2.0 under contruction
 
+# Downloads and building Crate
+
+1) Download Crate Engines and optional Plugins/OpenWith tools from
+
+
+Your Crate Image Engines folder should look like this
+
+Crate Image Engines/
+├── _plugins/
+├── f3d/
+├── ffmpeg/
+├── imagemagick/
+├── mediainfo/
+└── OpenImageIO/
+
+2)
+
+# ABOUT CRATE
+
 Crate is the first 3D browser for Nuke that generates thumbnails from geometry and gaussian splats automatically for you without intervention.
 
 We´re are working to build a first long term solid foundation and allow studios and users to update their Crate versions easily in the future.
