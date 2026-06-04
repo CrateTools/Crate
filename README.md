@@ -2,9 +2,7 @@
 
 # CRATE V2.0 under contruction
 
-# Downloads and building Crate
-
-# <span style="color: #E1AD01;">Downloads and building Crate</span>
+# Building your Crate
 
 1) Download Crate Engines and optional Plugins/OpenWith tools from
 
