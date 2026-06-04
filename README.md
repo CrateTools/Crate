@@ -5,6 +5,10 @@
 # Building your Crate
 
 <h3 style="font-size: 1.5em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
+# Building your Crate
+</h3>
+
+<h3 style="font-size: 1.5em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
   1) Download Crate Engines and optional Plugins/OpenWith tools from
 </h3>
 
