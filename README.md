@@ -26,8 +26,6 @@ Your Crate Image Engines folder should look like this:
     └── OpenImageIO/
     </pre>
 
-For Windows the path "C:\Users\Public\Crate Image Engines" is recommended
-
 <p>For Windows, the path <code>C:\Users\Public\Crate Image Engines</code> is highly recommended.</p>
 
 <blockquote>
