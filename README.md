@@ -2,9 +2,7 @@
 
 # CRATE V2.0 under contruction
 
-# Building your Crate
-
-<h3 style="font-size: 20em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
+<h3 style="font-size: 30em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
   Building your Crate
 </h3>
 
