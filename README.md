@@ -32,6 +32,11 @@ Your Crate Engines folder should look like this:
 <strong>Important Security Note:</strong> If you choose to install this in a different directory, please ensure your operating system permissions, antivirus, or security software do not block Nuke from accessing this folder. Restrictive environments may prevent the tools and plugins from executing correctly.
 </blockquote>
 
+<blockquote>
+<strong>Important Security Note:</strong> Platform Support
+Crate has been primarily developed and tested on Windows 10 22H2.
+It should work on Windows 11, macOS, and Linux, but we cannot guarantee fully smooth functionality on these platforms yet. Some tweaking may be required, especially regarding file permissions and executable flags on macOS and Linux.
+</blockquote>
 
 <blockquote>
 <strong>OS Permissions:</strong> To run the application properly with read + write + execute permissions as a normal user, place the files in the shared folder for your operating system, talk to your admin or find the way for you OS admin to give this permissions so Crate can operate normally from Nuke.
