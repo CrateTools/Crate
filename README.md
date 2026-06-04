@@ -37,7 +37,7 @@ Your Crate Engines folder should look like this:
 </blockquote>
 
 <blockquote>
-<strong>OS Permissions:</strong> To run the application properly with read + write + execute permissions as a normal user, place the files in the shared folder for your operating system, talk to your admin or find the way for you OS admin to give this permissions so Crate can operate normally from Nuke.
+<strong>OS Permissions:</strong> To run the application properly with read + write + execute permissions as a normal user, place the files in the shared folder for your operating system, talk to your admin or find the way for your OS admin to give this permissions so Crate can operate normally from Nuke.
 </blockquote>
 
 
