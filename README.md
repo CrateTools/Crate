@@ -40,11 +40,13 @@ Your Crate Engines folder should look like this:
 <strong>OS Permissions:</strong> To run the application properly with read + write + execute permissions as a normal user, place the files in the shared folder for your operating system, talk to your admin or find the way for your OS admin to give this permissions so Crate can operate normally from Nuke.
 </blockquote>
 
+
 <h3 style="font-size: 30em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
-  Nuke pipe
+  2) Nuke pipe
 </h3>
 
 Make a designated init.py in your pipe to call and launch Crate with Nuke
+
 nuke.pluginAddPath("path to Crate´s menu.py living inside Crate´s folder")
 
 
