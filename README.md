@@ -10,9 +10,9 @@
   1) Download Crate Engines and optional Plugins from
 </h3>
 
-link 1 (soon)
+link 1 Crate Image Engines https://drive.google.com/file/d/1aTyaviI9aqxl9kP2Epu1HIMULeY7qVvX/view?usp=sharing
 
-link 2 (soon)
+link 2 Crate Plugins (optional) https://drive.google.com/file/d/1RfncmBcdVcyZL6NlJDoe_Amw_WABeFSu/view?usp=sharing
 
 Your Crate Engines folder should look like this:
 
