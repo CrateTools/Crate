@@ -14,7 +14,7 @@ link 1 (soon)
 
 link 2 (soon)
 
-Your Crate Image Engines folder should look like this:
+Your Crate Engines folder should look like this:
 
 <pre>
     Crate Image Engines/
