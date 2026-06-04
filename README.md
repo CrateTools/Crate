@@ -33,9 +33,11 @@ Your Crate Engines folder should look like this:
 </blockquote>
 
 <blockquote>
-<strong>Important Security Note:</strong> Platform Support
-Crate has been primarily developed and tested on Windows 10 22H2.
-It should work on Windows 11, macOS, and Linux, but we cannot guarantee fully smooth functionality on these platforms yet. Some tweaking may be required, especially regarding file permissions and executable flags on macOS and Linux.
+<strong>Important Security Note:</strong>
+  Platform Support:
+  
+  Crate has been primarily developed and tested on Windows 10 22H2.
+  It should work on Windows 11, macOS, and Linux, but we cannot guarantee fully smooth functionality on these platforms yet. Some tweaking may be required, especially regarding file permissions and executable flags on macOS and Linux.
 </blockquote>
 
 <blockquote>
