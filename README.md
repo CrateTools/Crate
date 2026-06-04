@@ -10,8 +10,9 @@
   1) Download Crate Engines and optional Plugins/OpenWith from
 </h3>
 
-link
-link
+link 1
+
+link 2
 
 Your Crate Image Engines folder should look like this:
 
