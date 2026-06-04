@@ -4,8 +4,7 @@
 
 # Building your Crate
 
-1) Download Crate Engines and optional Plugins/OpenWith tools from
-
+## 1) Download Crate Engines and optional Plugins/OpenWith tools from
 
 Your Crate Image Engines folder should look like this
 
