@@ -9,13 +9,15 @@
 
 Your Crate Image Engines folder should look like this
 
-Crate Image Engines/
-├── _plugins/
-├── f3d/
-├── ffmpeg/
-├── imagemagick/
-├── mediainfo/
-└── OpenImageIO/
+<pre>
+    Crate Image Engines/
+    ├── _plugins/
+    ├── f3d/
+    ├── ffmpeg/
+    ├── imagemagick/
+    ├── mediainfo/
+    └── OpenImageIO/
+    </pre>
 
 2)
 
