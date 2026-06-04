@@ -4,7 +4,7 @@
 
 # Downloads and building Crate
 
-<h1 style="color: #E1AD01;">Downloads and building Crate</h1>
+# <span style="color: #E1AD01;">Downloads and building Crate</span>
 
 1) Download Crate Engines and optional Plugins/OpenWith tools from
 
