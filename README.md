@@ -18,7 +18,28 @@ Your Crate Image Engines folder should look like this
     └── OpenImageIO/
     </pre>
 
-2)
+
+
+<!-- 1. MUSTARD COLOR WITH NO UNDERLINE -->
+<!-- We use a custom styled div to avoid GitHub's automatic H1/H2 underline -->
+<div style="color: #E1AD01; font-size: 2em; font-weight: bold; margin-bottom: 20px;">
+  CRATE V2.0 under contruction
+</div>
+
+<!-- 2. BOLDED WITH NO UNDERLINE -->
+<div style="font-size: 2em; font-weight: bold; margin-bottom: 20px;">
+  Building your Crate
+</div>
+
+<!-- 3. BOLDED WITH AN UNDERLINE -->
+<!-- We use an H3 (which has no native line) and manually add a clean bottom border -->
+<h3 style="font-size: 1.5em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
+  1) Download Crate Engines and optional Plugins/OpenWith tools from
+</h3>
+
+<!-- Your existing directory text snippet -->
+<p>Your Crate Image Engines folder should look like this:</p>
+
 
 # ABOUT CRATE
 
