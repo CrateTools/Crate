@@ -64,22 +64,6 @@ New studio professional tools, Curators vs Visitors access, user read and write 
 
 Library objects vs storage tiers it allows to have the thumbnails and animated previews on a separate cache. You might choose to locate the cache over ssd/nvme disk and the raw elements on an array or high capacity disks.
 
-#
-
-Crate uses F3D, OpenImageIO, FFmpeg, ImageMagik and MediaInfo as splat, geo, metadata, video and images for fast ingest, still and animated thumbs done automatically on the fly with professional color management.
-
-The engines will continue to allow Crate to grow into new and more professional features, many of them already on new V2.0
-
-#
-Official Crate youtube playlist soon
-#
-
-Some of the supported formarts covering image, geometry and gaussian splats:
-
-abc, avi, bmp, dae, dds, dnxhd, dpx, exr, fbx, gif, glb, gltf, hdr, ico, jpeg, jpg, m2v, m4v, mkv, mov, mp4, mpeg, mpg, mxf,
-obj, off, pbm, pfm, pgm, pic, ply, png, ppm, prores, psd, pts, splat, spz, stl, tga, tif, tiff, usd, usda, usdc, usdz, vrml, 
-vtp, vtu, webm, webp, wmv, wrl, xyz, y4m, yuv and more...
-
 
 # Licenses
 
@@ -97,6 +81,10 @@ OpenImageIO, which Crate depends on, is under Apache License.
 
 
 # Crate engines
+
+Crate uses F3D, OpenImageIO, FFmpeg, ImageMagik and MediaInfo as splat, geo, metadata, video and images for fast ingest, still and animated thumbs done automatically on the fly with professional color management.
+
+The engines will continue to allow Crate to grow into new and more professional features, many of them already on new V2.0
 
 https://github.com/ImageMagick
 
