@@ -54,7 +54,7 @@ nuke.pluginAddPath("path to Crate´s menu.py living inside Crate´s folder")
 
 Crate is the first 3D browser for Nuke that generates thumbnails from geometry and gaussian splats automatically for you without intervention.
 
-We´re are working to build a first long term solid foundation and allow studios and users to update their Crate versions easily in the future.
+We´re are working to build a first long term solid foundation and allow users to update their Crate versions easily in the future.
 
 Crate V2.0 is a major update both for it´s interface, functions, engines and code. It works very different compared to V1.1., a clean install is needed.
 
