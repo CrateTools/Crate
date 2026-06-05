@@ -120,7 +120,7 @@ We are genuinely grateful and the Camera module would not exist in its current f
 
 Any inaccuracies in Crate's database are ours, not Vfx Camera Database and Matchmove machine; corrections are welcome via the issue tracker, and significant ones will be reported back to the mentioned parent databases.
 
-# Recommended Apps that you can link to Crate´s right click "Open With" available on Crate Settings
+# Recommended Plugins that you can link to Crate´s right click menu
 
   Open RV
     https://github.com/AcademySoftwareFoundation/OpenRV
