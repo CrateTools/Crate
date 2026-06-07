@@ -82,6 +82,8 @@ MediaInfo, which Crate depends on, is under the BSD 2-Clause License
 
 OpenImageIO, which Crate depends on, is under Apache License.
 
+Playcanvas SplatTransform - 3D Gaussian Splat Converter, which Crate depends on, is under MIT License.
+
 
 # Crate engines
 
