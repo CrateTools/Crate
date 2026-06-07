@@ -104,9 +104,10 @@ https://github.com/FFmpeg
 https://github.com/playcanvas/splat-transform
 
 
-# Crate JavaScript runtime
+# Crate JavaScript runtime for Splat Convert in Crate´s Discover Module
 
 https://nodejs.org/
+
 (Investigate here if you plan a Linux or Mac enabled Splat Covert panel in the Discover Module https://nodejs.org/en/download/current)
 
 # Credits & Acknowledgments
