@@ -104,6 +104,11 @@ https://github.com/FFmpeg
 https://github.com/playcanvas/splat-transform
 
 
+# Crate JavaScript runtime
+
+https://nodejs.org/
+(Investigate here if you plan a Linux or Mac enabled Splat Covert panel in the Discover Module https://nodejs.org/en/download/current)
+
 # Credits & Acknowledgments
 
 
