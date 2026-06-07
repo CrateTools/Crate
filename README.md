@@ -14,6 +14,8 @@ link 1 Crate Image Engines https://drive.google.com/file/d/1aTyaviI9aqxl9kP2Epu1
 
 link 2 Crate Plugins (optional) https://drive.google.com/file/d/1RfncmBcdVcyZL6NlJDoe_Amw_WABeFSu/view?usp=sharing
 
+link 3 to splat-transform soon
+
 Your Crate Engines folder should look like this:
 
 <pre>
@@ -24,6 +26,7 @@ Your Crate Engines folder should look like this:
     ├── imagemagick/
     ├── mediainfo/
     └── OpenImageIO/
+    └── splat-transform 
     </pre>
 
 <p>For Windows, the path <code>C:\Users\Public\Crate Image Engines</code> is highly recommended.</p>
@@ -97,6 +100,8 @@ https://github.com/pitvfx/OpenImageIO
 https://github.com/MediaArea/MediaInfo
 
 https://github.com/FFmpeg
+
+https://github.com/playcanvas/splat-transform
 
 
 # Credits & Acknowledgments
