@@ -105,8 +105,9 @@ https://github.com/FFmpeg
 
 https://github.com/playcanvas/splat-transform
 
-
-# Crate JavaScript runtime for Splat Convert in Crate´s Discover Module
+<h3 style="font-size: 1.5em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
+ Crate JavaScript runtime for Splat Convert in Crate´s Discover Module
+</h3>
 
 https://nodejs.org/
 
