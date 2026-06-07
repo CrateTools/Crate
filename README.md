@@ -113,7 +113,7 @@ https://github.com/playcanvas/splat-transform
 
 https://nodejs.org/
 
-(Investigate here if you plan a Linux or Mac enabled Splat Covert panel in the Discover Module https://nodejs.org/en/download/current)
+Investigate here if you plan a Linux or Mac enabled Splat Covert panel in the Discover Module https://nodejs.org/en/download/current
 
 # Credits & Acknowledgments
 
