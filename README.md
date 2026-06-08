@@ -3,7 +3,7 @@
 # CRATE V2.0 under contruction 🧱 not released yet
 
 <h3 style="font-size: 30em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
-  Building your Crate
+  Building your Crate - 3 Steps
 </h3>
 
 <h3 style="font-size: 1.5em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
@@ -52,6 +52,10 @@ Make a designated init.py in your pipe to call and launch Crate with Nuke
 <pre>
 nuke.pluginAddPath("path to Crate´s menu.py living inside Crate´s folder")
    </pre>
+
+<h3 style="font-size: 30em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
+  3) Crate 
+</h3>
 
 # ABOUT CRATE
 
