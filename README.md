@@ -87,7 +87,7 @@ Playcanvas SplatTransform - 3D Gaussian Splat Converter, which Crate depends on,
 
 # Crate engines
 
-Crate uses F3D, OpenImageIO, FFmpeg, ImageMagick, MediaInfo, and PlayCanvas SplatTransform as background engines for automatic thumbnail generation, animated previews, metadata extraction, color-managed image processing, and Gaussian Splat format conversion — all on the fly as you browse
+Crate uses F3D, OpenImageIO, FFmpeg, ImageMagick, MediaInfo, and PlayCanvas SplatTransform as background engines for automatic thumbnail generation, animated previews, metadata extraction, color-managed image processing, 3D geo/splat preview monitoring and Gaussian Splat family format conversion — all on the fly as you browse.
 
 The engines will continue to allow Crate to grow into new and more professional features, many of them already on new V2.0
 
