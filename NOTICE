@@ -132,7 +132,17 @@ THUMBNAIL & MEDIA ENGINES (required for full functionality)
     Licence: BSD-2-Clause
     Use: video and sequence metadata extraction (resolution, codec,
     duration, frame count).
-
+	
+  SplatTransform
+    https://github.com/playcanvas/splat-transform
+    Licence: MIT
+    Use: 3D Gaussian Splat format conversion and processing. Reads
+    PLY, Compressed PLY, SOG, SPZ, SPLAT, KSPLAT, and LCC formats;
+    writes PLY, Compressed PLY, SOG, SPZ, and GLB. Supports
+    decimation, spherical harmonic band stripping, NaN filtering,
+    and spatial transformations. Invoked by Crate's SPLAT-C panel
+    via Node.js as an external process.	
+	
 --------------------------------------------------------------------------------
 "OPEN WITH" PLUGINS (optional external viewers and tools)
 --------------------------------------------------------------------------------
@@ -196,6 +206,14 @@ each tool and complying with its licence.
     BSD-3-Clause.
     Use: HDR / OpenEXR inspection, false-colour comparison, pixel
     peeping.
+
+others you can add but not yet fully integrated:
+
+SuperSplat - Online splat editor server using local gpu https://superspl.at/editor
+
+SuperSplat - Online splat file family converter https://superspl.at/convert
+
+F3D WebViewer - Online splat viewer server using local gpu https://f3d.app/viewer/
 
 --------------------------------------------------------------------------------
 HOST APPLICATION AND IN-PROCESS LIBRARIES
