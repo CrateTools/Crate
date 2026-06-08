@@ -54,7 +54,7 @@ nuke.pluginAddPath("path to Crate´s menu.py living inside Crate´s folder")
    </pre>
 
 <h3 style="font-size: 30em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
-  3) Crate 
+  3) Crate --in progress--
 </h3>
 
 # ABOUT CRATE
