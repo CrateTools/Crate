@@ -65,7 +65,7 @@ We´re are working to build a first long term solid foundation and allow users t
 
 Crate V2.0 is a major update both for it´s interface, functions, engines and code. It works very different compared to V1.1., a clean install is needed.
 
-Will be compatible with PySide2 to PySide6 across Nuke 15 16 17
+It´s compatible with PySide2 to PySide6 across Nuke 15 16 17, however, the full potential and features of Crate v2.0 and all its exhaustive testing has been done in Nuke 17 vith a focus on the future.
 
 New studio professional tools, Curators vs Visitors access, user read and write privileges, user interface privileges according to role. 
 
