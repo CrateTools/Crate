@@ -26,7 +26,7 @@ Your Crate Engines folder should look like this:
     ├── imagemagick/
     ├── mediainfo/
     └── OpenImageIO/
-    └── splat-transform 
+    └── splat-transform/ 
     </pre>
 
 <p>For Windows, the path <code>C:\Users\Public\Crate Image Engines</code> is highly recommended.</p>
