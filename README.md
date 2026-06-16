@@ -75,7 +75,9 @@ Library objects vs storage tiers it allows to have the thumbnails and animated p
 
 # Learn
 
-Check pdf User Manual on this repo and see video tutorials on https://www.youtube.com/playlist?list=PLPqEIUVfnnz6pt2Bg8_i-BTS6PeyLD2nX
+Check pdf User Manual on this repo  ---(coming soon)---
+
+See video tutorials on https://www.youtube.com/playlist?list=PLPqEIUVfnnz6pt2Bg8_i-BTS6PeyLD2nX  ---(coming soon)---
 
 # Licenses
 
