@@ -59,7 +59,7 @@ nuke.pluginAddPath("path to Crate´s menu.py living inside Crate´s folder")
 
 # ABOUT CRATE
 
-Crate should feel like Nuke always had it
+Our goal is to create an asset browser so fast and so native it feels like Nuke always had it.
 
 It´s the first 3D browser for Nuke that generates thumbnails from gaussian splats and geometry automatically for you without intervention.
 
