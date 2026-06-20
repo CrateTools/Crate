@@ -131,13 +131,15 @@ Investigate here if you plan a Linux or Mac enabled Splat Covert panel in the Di
 
 ## Splat
 
-WebGL 3D Gaussian Splat Viewer
+WebGL implementation of a real-time renderer for 3D Gaussian Splatting by antimatter15
 
-[https://github.com/francescofugazzi/3dgsconverter](https://github.com/antimatter15/splat)
+[https://github.com/antimatter15/splat](https://github.com/antimatter15/splat)
 
 Used as ply to splat converter
 
 ## 3dgsconverter
+
+A versatile, high-performance tool for converting between various 3D Gaussian Splatting formats by Francesco Fugazzi
 
 [https://github.com/francescofugazzi/3dgsconverter](https://github.com/francescofugazzi/3dgsconverter)
 
