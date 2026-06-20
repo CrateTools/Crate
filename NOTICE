@@ -250,6 +250,13 @@ under the MIT License.
     A copy of the original MIT licence is included in
     third_party/antimatter15-splat/LICENSE.
 
+
+3dgsconverter
+A versatile, high-performance tool for converting between various 3D Gaussian Splatting formats by Francesco Fugazzi
+
+https://github.com/francescofugazzi/3dgsconverter
+Licence: MIT
+
 ================================================================================
 CAMERA DATABASE
 ================================================================================
