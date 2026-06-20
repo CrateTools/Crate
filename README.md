@@ -229,3 +229,8 @@ Read "RECOMMENDED PLUGINS TOOLS & LICENSE NOTICE.txt", Using these extensions fo
 https://www.cined.com/lens-database/
 
 We hope to add the Cined lens database as soon as we receive permission. In the meantime, we'd like to make their fantastic database available with direct access to the website from the Crate interface.
+
+# Recommended sites to download Gaussians splat for tests
+
+https://superspl.at/
+
