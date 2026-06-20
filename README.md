@@ -137,6 +137,12 @@ WebGL 3D Gaussian Splat Viewer
 
 Used as ply to splat converter
 
+## 3dgsconverter
+
+[https://github.com/francescofugazzi/3dgsconverter](https://github.com/francescofugazzi/3dgsconverter)
+
+Used as splats family types to .ksplat
+
 ## Crate Camera Database
 
 Lives on [https://github.com/CrateTools/CrateCamDB](https://github.com/CrateTools/CrateCamDB) and Curators can update from it right from Crate´s interface.
