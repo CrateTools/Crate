@@ -234,3 +234,7 @@ We hope to add the Cined lens database as soon as we receive permission. In the 
 
 https://superspl.at/
 
+## Thank you for using Crate
+<img width="100" height="101" alt="gracias 3_1_1" src="https://github.com/user-attachments/assets/15ed5f6f-e8b3-4bb1-86ba-a32705f9928b" />
+
+
