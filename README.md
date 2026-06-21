@@ -118,16 +118,10 @@ https://github.com/MediaArea/MediaInfo
 https://github.com/FFmpeg
 
 https://github.com/playcanvas/splat-transform
-
-#
-
-<h3 style="font-size: 1.5em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
- Crate JavaScript runtime for Splat Convert in Crate´s Discover Module
-</h3>
-
 https://nodejs.org/
-
-Investigate here if you plan a Linux or Mac enabled Splat Covert panel in the Discover Module https://nodejs.org/en/download/current
+<h3 style="font-size: 1.5em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
+ Crate JavaScript runtime used by the splat-transform engine
+</h3>
 
 
 <h3 style="font-size: 30em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
