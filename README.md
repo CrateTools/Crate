@@ -122,11 +122,12 @@ https://github.com/playcanvas/splat-transform
 https://nodejs.org/   (Crate JavaScript runtime used by the "splat-transform" engine)
 
 
-## Credits & Acknowledgments
-
 <h3 style="font-size: 30em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
-  Splat
+  Credits & Acknowledgments
 </h3>
+
+# Splat
+
 WebGL implementation of a real-time renderer for 3D Gaussian Splatting by antimatter15
 
 [https://github.com/antimatter15/splat](https://github.com/antimatter15/splat)
