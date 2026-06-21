@@ -230,9 +230,7 @@ https://www.cined.com/lens-database/
 
 We hope to add the Cined lens database as soon as we receive permission. In the meantime, we'd like to make their fantastic database available with direct access to the website from the Crate interface.
 
-<h3 style="font-size: 1.5em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
- Recommended sites to download Gaussians splat for tests
-</h3>
+## Recommended sites to download Gaussians splat for tests
 
 https://superspl.at/
 
