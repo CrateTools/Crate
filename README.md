@@ -121,10 +121,7 @@ https://github.com/playcanvas/splat-transform
 
 https://nodejs.org/   (Crate JavaScript runtime used by the "splat-transform" engine)
 
-
-<h3 style="font-size: 50em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
-  Credits & Acknowledgments
-</h3>
+## Credits & Acknowledgments
 
 <h3 style="font-size: 30em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
   Splat
@@ -136,7 +133,9 @@ WebGL implementation of a real-time renderer for 3D Gaussian Splatting by antima
 
 Used as ply to splat converter
 
-## 3dgsconverter
+<h3 style="font-size: 30em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
+  3dgsconverter
+</h3>
 
 A versatile, high-performance tool for converting between various 3D Gaussian Splatting formats by Francesco Fugazzi
 
@@ -144,7 +143,9 @@ A versatile, high-performance tool for converting between various 3D Gaussian Sp
 
 Used as splats family types to .ksplat
 
-## Crate Camera Database
+<h3 style="font-size: 30em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
+  Crate Camera Database
+</h3>
 
 Lives on [https://github.com/CrateTools/CrateCamDB](https://github.com/CrateTools/CrateCamDB) and Curators can update from it right from Crate´s interface.
 
