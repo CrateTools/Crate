@@ -73,13 +73,13 @@ New studio professional tools, Curators vs Visitors access, user read and write 
 
 Library objects vs storage tiers it allows to have the thumbnails and animated previews on a separate cache. You might choose to locate the cache over ssd/nvme disk and the raw elements on an array or high capacity disks.
 
-# Learn
+## Learn
 
 Check pdf User Manual on this repo  ---(coming soon)---
 
 See video tutorials on https://www.youtube.com/playlist?list=PLPqEIUVfnnz6pt2Bg8_i-BTS6PeyLD2nX  ---(coming soon)---
 
-# Licenses
+## Licenses
 
 Crate is under Apache License.
 
@@ -99,7 +99,7 @@ Splat , WebGL 3D Gaussian Splat Viewer, which Crate depends on, is under MIT Lic
 
 3dgsconverter, a Python command-line utility for converting Splats, which Crate depends on, is under MIT License.
 
-# Crate engines
+## Crate engines
 
 Crate uses F3D, OpenImageIO, FFmpeg, ImageMagick, MediaInfo, and PlayCanvas SplatTransform as background engines for automatic thumbnail generation, animated previews, metadata extraction, color-managed image processing, 3D geo/splat preview monitoring and Gaussian Splat family format conversion — all on the fly as you browse.
 
