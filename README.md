@@ -95,6 +95,9 @@ OpenImageIO, which Crate depends on, is under Apache License.
 
 Playcanvas SplatTransform - 3D Gaussian Splat Converter, which Crate depends on, is under MIT License.
 
+Splat , WebGL 3D Gaussian Splat Viewer, which Crate depends on, is under MIT License.
+
+3dgsconverter, a Python command-line utility for converting Splats, which Crate depends on, is under MIT License.
 
 # Crate engines
 
