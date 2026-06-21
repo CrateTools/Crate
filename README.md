@@ -130,7 +130,9 @@ https://nodejs.org/
 Investigate here if you plan a Linux or Mac enabled Splat Covert panel in the Discover Module https://nodejs.org/en/download/current
 
 
-## Credits & Acknowledgments
+<h3 style="font-size: 30em; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 8px; margin-bottom: 15px;">
+  Credits & Acknowledgments
+</h3>
 
 ## Splat
 
