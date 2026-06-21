@@ -155,7 +155,7 @@ We are genuinely grateful and the Camera module would not exist in its current f
 
 Any inaccuracies in Crate's database are ours, not Vfx Camera Database and Matchmove machine; corrections are welcome via the issue tracker, and significant ones will be reported back to the mentioned parent databases.
 
-# Recommended plugins/tools that you can link to Crate´s right click menu
+## Recommended plugins/tools that you can link to Crate´s right click menu
 
   Open RV
     https://github.com/AcademySoftwareFoundation/OpenRV
@@ -224,7 +224,7 @@ Any inaccuracies in Crate's database are ours, not Vfx Camera Database and Match
 
 Read "RECOMMENDED PLUGINS TOOLS & LICENSE NOTICE.txt", Using these extensions for commercial and personal projects is the sole responsibility of the user.
 
-# Lens explore link thanks to
+## Lens explore link thanks to
 
 https://www.cined.com/lens-database/
 
