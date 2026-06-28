@@ -65,9 +65,9 @@ It´s the first 3D browser for Nuke that generates thumbnails from gaussian spla
 
 We´re are working to build a first long term solid foundation and allow users to update their Crate versions easily in the future.
 
-Crate V2.0 is a major update both for it´s interface, functions, engines and code. It works very different compared to V1.1., a clean install is needed.
+Crate 2 is a major update both for it´s interface, functions, engines and code. It works very different compared to V1, a clean install is needed.
 
-It´s compatible with PySide2 to PySide6 across Nuke 15 16 17, however, the full potential and features of Crate v2.0 and all its exhaustive testing has been done in Nuke 17 vith a focus on the future.
+It´s compatible with PySide2 to PySide6 across Nuke 15 16 17, however, the full potential and features of Crate 2 and all its exhaustive testing has been done in Nuke 17 vith a focus on the future.
 
 New studio professional tools, Curators vs Visitors access, user read and write privileges, user interface privileges according to role. 
 
@@ -103,7 +103,7 @@ Splat , WebGL 3D Gaussian Splat Viewer, which Crate depends on, is under MIT Lic
 
 Crate uses F3D, OpenImageIO, FFmpeg, ImageMagick, MediaInfo, and PlayCanvas SplatTransform as background engines for automatic thumbnail generation, animated previews, metadata extraction, color-managed image processing, 3D geo/splat preview monitoring and Gaussian Splat family format conversion — all on the fly as you browse.
 
-The engines will continue to allow Crate to grow into new and more professional features, many of them already on new V2.0
+The engines will continue to allow Crate to grow into new and more professional features, many of them already on new Crate 2
 
 https://github.com/ImageMagick
 
