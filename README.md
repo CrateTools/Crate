@@ -169,7 +169,17 @@ We hope to add the Cined lens database as soon as we receive permission. In the 
 
 https://superspl.at/
 
+## Crate Services
+
+Love Crate but short on time? Let us manage and customize your library setup.
+
+Building a great open-source tool is only half the battle—keeping asset libraries clean,
+organized, and running smoothly across active productions is where the real work begins.
+If your studio or freelance workflow needs Crate to do something highly specific,
+We are available for dedicated support, custom module development, and library management.
+From coding bespoke pipeline tools and custom search behaviors to organizing, migrating,
+and building out massive, tidy asset libraries from scratch, we can help you maximize Crate’s potential.
+
+Let us handle the pipeline hygiene and customization so you can focus entirely on the creative work.
+
 ## Thank you for using Crate
-<img width="100" height="101" alt="gracias 3_1_1" src="https://github.com/user-attachments/assets/15ed5f6f-e8b3-4bb1-86ba-a32705f9928b" />
-
-
