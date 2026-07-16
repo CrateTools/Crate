@@ -176,7 +176,7 @@ Love Crate but short on time? Let us manage and customize your library setup.
 Building a great open-source tool is only half the battle—keeping asset libraries clean,
 organized, and running smoothly across active productions is where the real work begins.
 If your studio or freelance workflow needs Crate to do something highly specific,
-We are available for dedicated support, custom module development, and library management.
+we are available for dedicated support, custom module development, and library management.
 From coding bespoke pipeline tools and custom search behaviors to organizing, migrating,
 and building out massive, tidy asset libraries from scratch, we can help you maximize Crate’s potential.
 
