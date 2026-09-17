@@ -1,4 +1,4 @@
-# CRATE 2 for Nuke | Feature Tour Video
+# CRATE 2 for Nuke | Feature Tour Video 👇🟥⃢▸ YT
 [![Crate 2.0 — Intro Tour](https://img.youtube.com/vi/DI1a0VykNU8/maxresdefault.jpg)](https://youtu.be/DI1a0VykNU8)
 
 # About Crate
