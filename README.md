@@ -181,4 +181,10 @@ Crate's Camera module ships with a reference database of digital cinema, broadca
 
 Crate Camera module would not exist in its current form without those projects. If you find this data useful, please consider [supporting VFXCamDB](https://vfxcamdb.com/donate/) and [supporting Matchmove machine](https://camdb.matchmovemachine.com/donate) directly.
 
+## In the News
+
+Radiance Fields Article on Crate 2
+
+https://radiancefields.com/crate-2.0.2-brings-gaussian-splat-conversion-into-nuke
+
 ---
